@@ -28,40 +28,15 @@
 
 ### Languages
 
-![C++17/20](https://img.shields.io/badge/C%2B%2B17%2F20-1e293b?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-1e293b?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Go](https://img.shields.io/badge/Go-1e293b?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-1e293b?style=for-the-badge&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![ARM64 Assembly](https://img.shields.io/badge/ARM64%20Assembly-1e293b?style=for-the-badge&logo=arm&logoColor=0091BD)
-![SQL](https://img.shields.io/badge/SQL-1e293b?style=for-the-badge)
+![C++17/20](https://img.shields.io/badge/C%2B%2B17%2F20-1e293b?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![C](https://img.shields.io/badge/C-1e293b?style=for-the-badge&logo=c&logoColor=A8B9CC) ![Go](https://img.shields.io/badge/Go-1e293b?style=for-the-badge&logo=go&logoColor=00ADD8) ![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=3776AB) ![PHP](https://img.shields.io/badge/PHP-1e293b?style=for-the-badge&logo=php&logoColor=777BB4) ![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![ARM64 Assembly](https://img.shields.io/badge/ARM64%20Assembly-1e293b?style=for-the-badge&logo=arm&logoColor=0091BD) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=for-the-badge)
 
 ### Systems and backend
 
-![Microservices](https://img.shields.io/badge/Microservices-1e293b?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-1e293b?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-1e293b?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
-![Redis](https://img.shields.io/badge/Redis-1e293b?style=for-the-badge&logo=redis&logoColor=DC382D)
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-1e293b?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MQTT](https://img.shields.io/badge/MQTT-1e293b?style=for-the-badge&logo=mqtt&logoColor=660066)
+![Microservices](https://img.shields.io/badge/Microservices-1e293b?style=for-the-badge) ![REST APIs](https://img.shields.io/badge/REST%20APIs-1e293b?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-1e293b?style=for-the-badge) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-1e293b?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF) ![Redis](https://img.shields.io/badge/Redis-1e293b?style=for-the-badge&logo=redis&logoColor=DC382D) ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=FFFFFF) ![DynamoDB](https://img.shields.io/badge/DynamoDB-1e293b?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248) ![MQTT](https://img.shields.io/badge/MQTT-1e293b?style=for-the-badge&logo=mqtt&logoColor=FFFFFF)
 
 ### Cloud and tools
 
-![AWS: EC2, ECS, Lambda, S3, RDS, CloudWatch](https://img.shields.io/badge/AWS%3A%20EC2%2C%20ECS%2C%20Lambda%2C%20S3%2C%20RDS%2C%20CloudWatch-1e293b?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Prometheus](https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Datadog](https://img.shields.io/badge/Datadog-1e293b?style=for-the-badge&logo=datadog&logoColor=632CA6)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032)
-![CMake](https://img.shields.io/badge/CMake-1e293b?style=for-the-badge&logo=cmake&logoColor=064F8C)
-![GDB](https://img.shields.io/badge/GDB-1e293b?style=for-the-badge&logo=gnu&logoColor=A42E2B)
-![pprof](https://img.shields.io/badge/pprof-1e293b?style=for-the-badge)
+![AWS: EC2, ECS, Lambda, S3, RDS, CloudWatch](https://img.shields.io/badge/AWS%3A%20EC2%2C%20ECS%2C%20Lambda%2C%20S3%2C%20RDS%2C%20CloudWatch-1e293b?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED) ![Prometheus](https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800) ![Datadog](https://img.shields.io/badge/Datadog-1e293b?style=for-the-badge&logo=datadog&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/CI%2FCD-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Linux](https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032) ![CMake](https://img.shields.io/badge/CMake-1e293b?style=for-the-badge&logo=cmake&logoColor=064F8C) ![GDB](https://img.shields.io/badge/GDB-1e293b?style=for-the-badge&logo=gnu&logoColor=A42E2B) ![pprof](https://img.shields.io/badge/pprof-1e293b?style=for-the-badge)
 
 </div>
 
