@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160">
+  <defs>
+    <style>@font-face{font-family:'JBM700';src:url(data:font/woff2;base64,d09GMgABAAAAAAVQAA8AAAAACbwAAAT2AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbHhwoBmA/U1RBVEwAgQQRCAqHaIYtCxwAATYCJAMcBCAFhGgHIBvkB8gEHv7fubovCZagY9oxzNpiVlQreAcCLaKF0c4pu15mzXz8e009x+83K6JRQ9NKb3Do/YfZQ9ymmvqaWt2i55W6EuqGsUvL7EUAkbAoUVQgMzQMjYFsqrIJT4rK6sZOwlHK+AyjoqkA4zGRYPeKCbdvimh6RZWbFalbOkIISEHJCe0NTofoJ1uU9egjAo9yI5IRy5/fQC/hUV99RYq2iX3yv/+/+qL8r0g1IW744A2Q4qW3cdREyBSZ8DZ8rLJYOzN7Rj2+sd3p9bknRAyCVShLSkoidtpEcmmodIRhOQPS98vXQyJ3A1XBkSjMvG8dsciEY8JGB26G8TDOFPMssG+Rq2by5t5ofGscMx4wbjZuNK4zrjGuMi43LjMu7nYdardAGAYxHonC7A0YS+qlIK6uzlVgeg5xZCu030SRZVPKZm1t9NqoNWvSVkRrIVHK7qiQ4fFId/D114W89MYb2vJrr6EuvawGX0QKvKQtvyK0wKuvFmW2a4HXor1Lp3Lsr78uSpIuMv4sgZPWrtdeg7C67hZLb2iaWHpeDT67Ti3zGiRVqCmBV+3LbwihBo8QeI4CanH5NZI1u9CUQtYrpqHZ9IRodGp5ZeKSKo/qdi1EkzSH5nSpdhV5bRJDK8tQoApYwkNbtKue0rTl42LpGMXV5q9+WlWDTxJ4ihKr7oCsbQC4P/dql6Nfc1312vpr3tjYo3m637717b6s1MJSI6UglYyIao8lb7CixJY3AP75qmtGLPkDtkMW3WxeMJeaF83mEfOh8nz3iIW0iIbJrILeaH9aWXZezsnUXbfv61jTtbp3tq0kt2ckq3rswAQ9/pQZc1ZfcvwZY/a19tU9Mx0lhf3jZr6P6HK7GtvGHUPnZiQWpSV1NO8Pb9rXM6D7hu0L+wZXFRS7arb1WSusKbaz49/ZmdDIvxHtw7ODl7mHZjsqWxptRzbLp13tf3u/d9MRW0vj2vHMWnPQXJuZ6bAELQ6a3vY/Knm2b6psbqhqGxzv8fp7s60Z6TUWJ61v+w87znzj8G0Rd2684MxPHJ/SFL/fu31TZXNDVdvgeI/X35ttzUivsTjpj1/0bm1xtbiaXfqkO/H0rVZvZlad1cma8NK+BEv1Vv/6H+JT01/Zujlwqy2iL9JRV9802qnH9062yZX+XffsiE+Z2rJpQ1d1hDuqt7GhdcI5RkqEd49Pt/u7rHmZGbXWLr9d3+fjtkcaX3o27Fx93WJMmaUypmxxYN0Z4W8BYPyIAKQc5cLPP6gdiCn6LVyWvwR45+XbrwZ45+0Xf/6r6P9XlYvlfxGEIgEg4F05ifLgX0X/TSh38jNCctJNLfnkUU0TrTTRj40G4t+Q00WJJ5niUUKboYzgXWUuv6GM8r7Fj4g1gUqwib9VEuH8rJLJ4Qgq2NJMFcIGDqpC2YlTGU0O2xkxjLnrYyK0uz4RQyRqgLH0S9DONJO4maIOH607gZchHOjVUTz4jHEfM8xTQAb90jxDzOFlBh/zpEPqZQK/Z5o5RsmghWoaqUfHRwVzuPG+i7SJaVieJo0KGicQtaPT0BQy/8pENulkk0WW6DIxQtOyqljIkAprgwNapHV3jzYYnWHfEk0bABMjmcbFmOjEg45pgrSVOaY6hs5Q02g5CxsJWwSVdk/c1Ogo3sLuBXaTztCh7JUxwH4zlkiSfisDlzd0si/kShUAAA==) format('woff2');font-weight:700}
+      .n{font-family:'JBM700',ui-monospace,Menlo,monospace;font-weight:700;font-size:54px;fill:#fafaf9;letter-spacing:0.5px}</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0a09"/><stop offset="1" stop-color="#1c1917"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#292524" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="160" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="160" fill="url(#bg)"/>
+    <rect width="1000" height="160" fill="url(#grid)" opacity="0.7"/>
+    <rect width="1000" height="4" y="156" fill="#f59e0b"/>
+  </g>
+  <text x="500" y="96" text-anchor="middle" class="n">Shashank Chaudhary</text>
+</svg>
