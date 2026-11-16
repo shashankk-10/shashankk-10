@@ -16,7 +16,7 @@
 ```yaml
 role: Software Development Engineer II
 company: Zomato (Eternal)
-works_on: backend and distributed systems, real-time services
+works_on: backend and distributed systems
 interests: [concurrency, low-latency systems, performance engineering]
 education: B.Tech, Electrical Engineering, IIT (ISM) Dhanbad
 competitive_programming:
